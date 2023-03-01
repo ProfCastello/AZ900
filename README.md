@@ -15,12 +15,14 @@
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ProfCastello/AZ900">
   </a>
 
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/ProfCastello/AZ900">
+
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Link-brightgreen?style=plastic)](https://learn.microsoft.com/pt-br/certifications/exams/az-900/)
 
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/nlw1?color=%2304D361">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/nlw1">
 
   	
 	
