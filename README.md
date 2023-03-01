@@ -29,4 +29,6 @@
 </h3>
 
 ## 💻 Sobre o projeto
+
+![LastCommit][githubLastCommit](https://github.com/ProfCastello/AZ900/commits/main)
     	![Github Last Commit][githubLastCommit](https://github.com/ProfCastello/AZ900/commits/main)
