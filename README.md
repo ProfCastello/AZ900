@@ -1,13 +1,13 @@
-[githubLastCommit]: https://img.shields.io/github/last-commit/ProfCastello/AZ900?style=plastic "Github Last Commit"
+[LastCommitImage]: https://img.shields.io/github/last-commit/ProfCastello/AZ900?style=plastic "Github Last Commit Image"
 
-
+[LastCommitLink]: https://github.com/ProfCastello/AZ900/commits/main "Github Last Commit"
 
 <h1 align="center"> Certificação Microsoft Azure Fundamentals - AZ-900 </h1>
 
 <h4 align="center"> 
 	🚧 MicrosoftAzureFundamentals 1.0 🚀 em construção... 🚧 
 
-[![Github Last Commit][githubLastCommit]](https://github.com/ProfCastello/AZ900/commits/main)
+[![Github Last Commit][LastCommitImage]][LastCommitLink]
 
   	<img alt="Repository size" src="https://img.shields.io/github/repo-size/ProfCastello/AZ900?style=plastic">
 </h4>
