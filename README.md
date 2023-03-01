@@ -6,18 +6,23 @@
 
 
 <p align="center">
-  <a href="https://github.com/tgmarinho/nlw1/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/tgmarinho/nlw1">
+  <a href="https://msftstudentcert.cloudreadyskills.com">
+    <img alt="Siga no Twitter" src="https://img.shields.io/badge/Cloud%20Ready%20Skills-Link-brightgreen?style=plastic">
   </a>
+
+
+  <a href="https://github.com/ProfCastello/AZ900/commits/main">
+    <img alt="GitHub last commit" src="https://img.shields.io/github.com/ProfCastello/AZ900/commits">
+  </a>
+
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Link-brightgreen?style=plastic)](https://learn.microsoft.com/pt-br/certifications/exams/az-900/)
+
 
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/tgmarinho/nlw1?color=%2304D361">
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/tgmarinho/nlw1">
 
   	
-  <a href="https://msftstudentcert.cloudreadyskills.com">
-    <img alt="Siga no Twitter" src="https://img.shields.io/badge/Cloud%20Ready%20Skills-Link-brightgreen?style=plastic">
-  </a>
 	
   
 
@@ -27,7 +32,6 @@
   </a>
 </p>
 
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Link-brightgreen?style=plastic)](https://learn.microsoft.com/pt-br/certifications/exams/az-900/)
 
 </p>
 
