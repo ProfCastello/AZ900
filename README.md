@@ -8,6 +8,9 @@
 	🚧 MicrosoftAzureFundamentals 1.0 🚀 em construção... 🚧 
 
 [![Github Last Commit][LastCommitImage]][LastCommitLink]
+[![Github Last Commit][LastCommitImage]][LastCommitLink]
+[![Github Last Commit][LastCommitImage]][LastCommitLink]
+[![Github Last Commit][LastCommitImage]][LastCommitLink]
 
   	<img alt="Repository size" src="https://img.shields.io/github/repo-size/ProfCastello/AZ900?style=plastic">
 </h4>
