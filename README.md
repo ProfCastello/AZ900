@@ -5,7 +5,7 @@
 <h1 align="center"> Certificação Microsoft Azure Fundamentals - AZ-900 </h1>
 
 <h4 align="center"> 
-	🚧 MicrosoftAzureFundamentals 1.0 🚀 em construção... 🚧 
+🚧 MicrosoftAzureFundamentals 1.0 🚀 em construção... 🚧
 	
 [![Github Last Commit][lastcommitimage]][lastcommitlink]
 ![Github Repo Size][reposize]
