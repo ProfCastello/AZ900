@@ -12,7 +12,7 @@
 
 
   <a href="https://github.com/ProfCastello/AZ900/commits/main">
-    <img alt="GitHub last commit" src="https://img.shields.io/github.com/ProfCastello/AZ900/commits">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/ProfCastello/AZ900">
   </a>
 
 [![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-Link-brightgreen?style=plastic)](https://learn.microsoft.com/pt-br/certifications/exams/az-900/)
