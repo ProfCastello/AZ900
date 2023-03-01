@@ -9,12 +9,8 @@
   	<img alt="Repository size" src="https://img.shields.io/github/repo-size/ProfCastello/AZ900?style=plastic">
 </h4>
 
-<p align="center">
 
-
-</p>
-
-<p align="center">
+<h3 align="center">
 
 <a href="https://msftstudentcert.cloudreadyskills.com">
     <img alt="Siga no Twitter" src="https://img.shields.io/badge/Cloud%20Ready%20Skills-Link-brightgreen?style=plastic">
@@ -24,6 +20,6 @@
 	<img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft%20Learn-Link-brightgreen?style=plastic">
 </a>
 
-</p>
+</h3>
 
 ## 💻 Sobre o projeto
