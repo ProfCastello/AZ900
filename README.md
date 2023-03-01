@@ -5,17 +5,17 @@
 <h1 align="center"> Certificação Microsoft Azure Fundamentals - AZ-900 </h1>
 
 <h4 align="center"> 
-	[🚧 MicrosoftAzureFundamentals 1.0 🚀 em construção... 🚧][![Github Last Commit][lastcommitimage]][lastcommitlink]
+	🚧 MicrosoftAzureFundamentals 1.0 🚀 em construção... 🚧 
+	
+[![Github Last Commit][lastcommitimage]][lastcommitlink]
 ![Github Repo Size][reposize]
-[![Github Last Commit][lastcommitimage]][lastcommitlink]
-[![Github Last Commit][lastcommitimage]][lastcommitlink]
 
-  	<img alt="Repository size" src="https://img.shields.io/github/repo-size/ProfCastello/AZ900?style=plastic">
 </h4>
 
 ---
 
 <h3 align="center">
+Links úteis para os alunos
 
 <a href="https://msftstudentcert.cloudreadyskills.com">
     <img alt="Siga no Twitter" src="https://img.shields.io/badge/Cloud%20Ready%20Skills-Link-brightgreen?style=plastic">
